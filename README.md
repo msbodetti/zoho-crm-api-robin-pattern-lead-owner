@@ -1,4 +1,4 @@
-# zoho-user-robin-pattern-crm-api
+# zoho-crm-api-robin-pattern-lead-owner
 Assigning robin-pattern-like effect to Zoho CRM lead
 
 
